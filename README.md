@@ -10,9 +10,9 @@ In this game:
 
 •	The winner of each round is decided based on classic game rules:
 
-   o	Rock beats Scissors
-   o	Scissors beats Paper
-   o	Paper beats Rock
+    o	Rock beats Scissors
+    o	Scissors beats Paper
+    o	Paper beats Rock
 •	The game continues for 10 rounds.
 
 •	Points are given for each win, and the total score is shown at the end.
