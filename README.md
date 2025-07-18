@@ -25,6 +25,7 @@ Points are given for each win, and the total score is shown at the end.
 The program also handles invalid input by showing an error message.
 
 
+
 💻 How It Works
 1. The game displays instructions.
 
