@@ -28,6 +28,7 @@ o	Paper beats Rock
 •	The program also handles invalid input by showing an error message.
 
 
+
 💻 How It Works
 1.	The game displays instructions.
 2.	You enter your choice (r, p, or s) each round.
