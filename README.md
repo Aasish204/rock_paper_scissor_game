@@ -5,6 +5,7 @@ This is a simple Rock, Paper, Scissors game built using Python, where you play a
 In this game:
 
 •	You choose either rock (r), paper (p), or scissors (s).
+
 •	The computer randomly picks one of the three options.
 •	The winner of each round is decided based on classic game rules:
    o	Rock beats Scissors
@@ -13,6 +14,19 @@ In this game:
 •	The game continues for 10 rounds.
 •	Points are given for each win, and the total score is shown at the end.
 •	The program also handles invalid input by showing an error message.
+
+📝 Description
+In this game:
+•	You choose either rock (r), paper (p), or scissors (s).
+•	The computer randomly picks one of the three options.
+•	The winner of each round is decided based on classic game rules:
+o	Rock beats Scissors
+o	Scissors beats Paper
+o	Paper beats Rock
+•	The game continues for 10 rounds.
+•	Points are given for each win, and the total score is shown at the end.
+•	The program also handles invalid input by showing an error message.
+
 
 💻 How It Works
 1.	The game displays instructions.
